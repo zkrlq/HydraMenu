@@ -24,13 +24,8 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="" alt="Logo" width="800" height="850">
-  </a>
-
   <h3 align="center">Hydra Script Menu </h3>
-
+  <br/>
   <p align="center">
     Best lua script for gta v online version 1.69!!
     <br />
